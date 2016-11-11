@@ -1,0 +1,57 @@
+body{
+  background-color: gray;
+}
+p{
+  font-family: verdana;
+    font-size: 20px;
+    text-align: left;
+    margin: 1px, auto;
+    padding-left: 1px
+}
+h1{
+  color: blue;
+   text-align: center;
+   border: dashed;
+}
+
+ul {
+   list-style-type: none;
+   font-size: 30px;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   background-color: yellow;
+
+
+}
+
+li  {
+   float: left;
+   padding-top:
+   display: block;
+   color: white;
+   text-align: center;
+   padding: 30px 85px;
+   text-decoration: none;
+
+}
+div {
+  background-color: red;
+  border-top: 1px;
+
+
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+   background-color: #111;
+}
+.nav  {
+  list-style-type: none;
+
+  font-size: 20px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: gray;
+}
